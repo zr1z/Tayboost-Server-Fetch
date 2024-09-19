@@ -1,24 +1,77 @@
 {
-  "servers": [
-    {
-      "name": "Tayboost Pudsey 2.0 Free Server",
-      "carPack": "Boosted Pack",
-      "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8084"
-    },
-    {
-      "name": "Tayboost Pudsey 2.0 Free Server",
-      "carPack": "Boosted Pack",
-      "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8084"
-    },
-    {
-      "name": "Tayboost Pudsey 2.0 Free Server",
-      "carPack": "Boosted Pack",
-      "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8084"
-    },
-    {
-      "name": "Tayboost Pudsey 2.0 Free Server",
-      "carPack": "Boosted Pack",
-      "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8084"
-    }
-  ]
-}
+    "servers": [
+      {
+        "name": "Tayboost Highforce Free Server",
+        "carPack": "Turbocharged Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8084",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost Pudsey 2.0 Free Server",
+        "carPack": "Boosted Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8090",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost The Springs Free Server",
+        "carPack": "Dinger Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8089",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost Lakeside Free Server",
+        "carPack": "Boosted Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8088",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost SRP UK Street Racing Free Server",
+        "carPack": "Boosted Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8085",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost Indoor Karting Server",
+        "carPack": "Paid Go Kart (Check Car Download's)",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=202.61.192.54&httpPort=9608",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost Certi Tier Highforce (Certi/Btec Tier)",
+        "carPack": "Old School Vs New School Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8081",
+        "patreonRequired": true
+      },
+      {
+        "name": "Tayboost Woolley Edge M1 Motorway Map Certi Tier",
+        "carPack": "Certi/Btec Tier Required (Boosted Pack Required)",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8093",
+        "patreonRequired": true
+      },
+      {
+        "name": "Tayboost Lakeside Certi Tier",
+        "carPack": "Certi/Btec Tier Required (Old School Vs New School Pack Required)",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8086",
+        "patreonRequired": true
+      },
+      {
+        "name": "Tayboost Uk Drift Server Nine Elms",
+        "carPack": "UK Drift Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8082",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost X The Run UK Street Drag Racing",
+        "carPack": "The Run UK Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8094",
+        "patreonRequired": false
+      },
+      {
+        "name": "Tayboost Scotts Pointe Drift Server",
+        "carPack": "UK Drift Pack",
+        "link": "https://acstuff.ru/s/q:race/online/join?ip=5.249.161.39&httpPort=8092",
+        "patreonRequired": false
+      }
+    ]
+  }
+  
